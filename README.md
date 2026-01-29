@@ -19,3 +19,10 @@ Tryck sedan på plusset för varje fil du vill lägga till! När du har lagt til
 Tryck sedan på `commit` knappen och efter lite laddande borde din source control se ut som följande.
 
 ![publish](bilder\publish.png)
+
+Innan vi kan publisera den så måste vi först configruera git med två kommandos
+
+`git config user.name "DittAnvädarnamnHär"`
+`git config user.email "DinMailHär"`
+
+När dessa två kommando är gjoda kan du trycka på `publish Branch` knappen. Om du inte redan är inloggad med ditt github konto kan du  
