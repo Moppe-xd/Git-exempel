@@ -15,3 +15,7 @@ Därifrån kommer ni få en flik som liknar bilden under.
 Tryck sedan på plusset för varje fil du vill lägga till! När du har lagt till alla filer du vill ha så kommer det se ut som bilden nedan. Lägg sedan till ett namn på din commit som förklarar vad för ändringar du har gjort.
 
 ![staged](bilder\staged.png)
+
+Tryck sedan på `commit` knappen och efter lite laddande borde din source control se ut som följande.
+
+![publish](bilder\publish.png)
