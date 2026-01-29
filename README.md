@@ -25,4 +25,7 @@ Innan vi kan publisera den så måste vi först configruera git med två kommand
 `git config user.name "DittAnvädarnamnHär"`
 `git config user.email "DinMailHär"`
 
-När dessa två kommando är gjoda kan du trycka på `publish Branch` knappen. Om du inte redan är inloggad med ditt github konto kan du  
+När dessa två kommando är gjoda kan du trycka på `publish Branch` knappen. Om du inte redan är inloggad med ditt github konto kan du test123
+
+
+hej lmao
