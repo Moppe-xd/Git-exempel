@@ -4,6 +4,30 @@ Denna git repo är ett exempel på hur man använder sig av git och github i VS 
 
 ---
 
+## Installera git på datorn
+
+För att kunna använda sig av git och github måste vi först installera git. För att installera git så går du in [här](https://git-scm.com/install/windows). Där kommer du se många olika länkar men ni ska trycka på är den som är understrycken på bilden nedan.
+
+![installationsfil](bilder/installationsfil.png)
+
+När ni har tryckt på den så kommer en fil laddas ner till datorn och när den är nerladdad så kommer det se ut något nedan. Tryck på git filen för att starta installationen
+
+![nerladdning](bilder/nerladdning.png)
+
+Du kommer få upp en varningsfönster som ser ut som nedan. Det är inget farligt så att det är bara att trycka på `kör`.
+
+![varning](bilder/varning.png)
+
+Nu är det bara att klicka dig igenom utan att göra några ändringar fram till du kommer till denna sida. Här är det viktigt att du väljer `Visual Studio Code as Git's default editor`. Git defaultar till en text hanterare som kallas för `Vim` och kan skapa problem om vi väljer den.
+
+![editor](bilder/editor.png)
+
+När du har valt `Visual Studio Code as Git's default editor` så är det bara att gå vidare genom att klicka next. Nu är du nästan färdig! Tryck dig igenom installationen utan att ändra några inställningar. Du är färdig med att installera git när du ser denna
+
+![färdig](bilder/färdig.png)
+
+---
+
 ## Skapa ett git projekt
 
 När vi har öppnat vårat projekt i VS Code så kan vi trycka på source control fliken ![source control](bilder/sourcecontrol.png) och trycka på knappen `Initilize project`
@@ -44,9 +68,3 @@ För att göra det gör vi exakt som vi gjorde i ovanstånde steg och trycker p�
 ![staged](bilder/staged.png)
 
 ---
-
-## Klona ett repo
-
-Säg att du vill arbeta på din projekt hemma, hur gör du det med git. Jo det finns ett väldigt enkelt sätt att göra det.
-
-Först måste vi se till att vi har git installerat på datorn. Om det inte är installerat får du repetera stegen gjorda på lektionen. Sedan ska vi gå in på GitHub och titta trycka på den stora gröna kanppen där det står `code`. 
