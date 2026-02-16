@@ -4,6 +4,8 @@ Denna git repo är ett exempel på hur man använder sig av git och github i VS 
 
 ---
 
+test
+
 ## Installera git på datorn
 
 För att kunna använda sig av git och github måste vi först installera git. För att installera git så går du in [här](https://git-scm.com/install/windows). Där kommer du se många olika länkar men ni ska trycka på är den som är understrycken på bilden nedan.
